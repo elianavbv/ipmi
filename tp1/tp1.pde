@@ -38,3 +38,4 @@ void draw () {
   circle (600, 220, 63); //circulo medio
    
 }
+// Eliana Valeria Bravo Vergel, comision 5, TP1
